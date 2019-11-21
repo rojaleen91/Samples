@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1130ce17-0f2e-4b6d-9a56-84fd555b0282" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TrzeJNfSyUjfODeoV0s0B08PDm" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SeleniumProject" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.DataDrivenTest_Add_New_Employees_Data_From_Excel.postNewEmployee">
+    <configuration name="BODY_RESPONSE.getBodyResponse (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredAutomation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BODY_RESPONSE" />
+      <option name="METHOD_NAME" value="getBodyResponse" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BODY_RESPONSE.getBodyResponse" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredAutomation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BODY_RESPONSE" />
+      <option name="METHOD_NAME" value="getBodyResponse" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BODY_RESPONSE.getweatherDetails" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredAutomation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BODY_RESPONSE" />
+      <option name="METHOD_NAME" value="getweatherDetails" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataDrivenTest_Add_New_Employees_Data_From_Excel.postNewEmployee" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DtadrivenTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DtadrivenTest" />
+      <option name="MAIN_CLASS_NAME" value="DtadrivenTest.DataDrivenTest_Add_New_Employees_Data_From_Excel" />
+      <option name="METHOD_NAME" value="postNewEmployee" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataDrivenTest_Add_New_Employees.postNewEmpployee" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestAssuredAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DtadrivenTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DtadrivenTest" />
+      <option name="MAIN_CLASS_NAME" value="DtadrivenTest.DataDrivenTest_Add_New_Employees" />
+      <option name="METHOD_NAME" value="postNewEmpployee" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.DataDrivenTest_Add_New_Employees_Data_From_Excel.postNewEmployee" />
+        <item itemvalue="TestNG.DataDrivenTest_Add_New_Employees.postNewEmpployee" />
+        <item itemvalue="TestNG.BODY_RESPONSE.getBodyResponse (1)" />
+        <item itemvalue="TestNG.BODY_RESPONSE.getBodyResponse" />
+        <item itemvalue="TestNG.BODY_RESPONSE.getweatherDetails" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1130ce17-0f2e-4b6d-9a56-84fd555b0282" name="Default Changelist" comment="" />
+      <created>1574233095563</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574233095563</updated>
+      <workItem from="1574233100983" duration="20896000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
